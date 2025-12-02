@@ -11,10 +11,10 @@ Criar uma página de portfólio pessoal responsiva em HTML5 e CSS3, utilizando *
 ## ✅ Checklist da Atividade
 
 ### 1. Estrutura HTML5
-- [ ] Criar arquivo `index.html` com estrutura HTML5 semântica
+- [X] Criar arquivo `index.html` com estrutura HTML5 semântica
 - [ ] Utilizar tags semânticas (`<header>`, `<main>`, `<section>`, `<footer>`, etc.)
-- [ ] Adicionar meta tags para responsividade (`viewport`)
-- [ ] Incluir título apropriado na tag `<title>`
+- [X] Adicionar meta tags para responsividade (`viewport`)
+- [X] Incluir título apropriado na tag `<title>`
 
 ### 2. Seções Obrigatórias
 
